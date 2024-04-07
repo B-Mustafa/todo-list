@@ -6,3 +6,5 @@
  - multiple categories
  - marking out when completed task
  - delete task 
+
+![preview]()
